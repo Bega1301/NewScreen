@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewScreen</string>
+   <string name="app_name1">Booking detail</string>
+    <string name="app_name2">WAROENG DOWN</string>
+    <string name="app_name3">NORMAL</string>
+    <string name="app_name4">Jumalah kursi</string>
+    <string name="app_name5">25 Kursi</string>
+    <string name="app_name6">Date and Time</string>
+    <string name="app_name7">20 June 8PM</string>
+    <string name="app_name8">Manue package</string>
+    <string name="app_name9">CHIKEN GERPEK</string>
+    <string name="app_name10">2 Pieces</string>
+</resources>
